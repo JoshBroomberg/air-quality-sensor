@@ -1,9 +1,0 @@
-{ 
-    "fileLocations": [                                                    
-              {"URIPrefixes": ["https://s3.amazonaws.com/air-quality-store/data/"]}
-     ],
-     "globalUploadSettings": { 
-     "format": "CSV",  
-     "delimiter": ","
-    }
-}
